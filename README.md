@@ -1,54 +1,57 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Systèmes-Embarqués-blue?style=for-the-badge" alt="Systèmes Embarqués"/>
-  <h1>Bosco DRG</h1>
-  <p><i>Ingénieur en Systèmes Embarqués | Développeur Électronique | Passionné d'IoT</i></p>
+  <h1>🚀 Bosco DRG</h1>
+  <p><i>Ingénieur en Systèmes Embarqués | Développeur Électronique | Expert IoT</i></p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bosco-drg)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bosco-drg.fr)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bosco-drg.com)
 </div>
 
 ## 👨‍💻 À propos de moi
 
-Futur ingénieur en systèmes embarqués passionné par le développement de solutions hardware/software intégrées. Mon expertise s'étend des microcontrôleurs à faible consommation aux architectures FPGA complexes, en passant par le développement de firmware optimisé. Je suis constamment à la recherche de défis techniques me permettant d'innover à l'intersection du matériel et du logiciel.
+Ingénieur passionné spécialisé dans les systèmes embarqués et l'électronique connectée. Mon expertise couvre le développement de solutions complètes, du hardware au firmware, avec une attention particulière à l'optimisation des performances et la gestion énergétique. Je conçois des systèmes intelligents à l'intersection de l'électronique, du logiciel embarqué et de l'IoT, en relevant constamment de nouveaux défis technologiques.
 
 ## 🛠️ Compétences Techniques
 
-### Langages & Technologies
-- **Languages de programmation:** C/C++, Python, Html, CSS, Javascript
-- **Microcontrôleurs:** ARM Cortex-M, PIC, ESP32
-- **Protocoles:** I2C, SPI, UART, CAN, Modbus, MQTT
-- **OS Embarqués:** FreeRTOS
+<div align="center">
 
-### Conception & Développement
-- **PCB Design:** KiCad, Easy eda
-- **IDE & Outils:** MPLAB, STM32CubeIDE, Arduino, PlatformIO
-- **Test & Validation:** JTAG, Oscilloscopes, Logic Analyzers
+| 💻 Langages | 🔌 Électronique | 🌐 Connectivité | 🔧 Outils |
+|------------|----------------|-----------------|-----------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ARM Cortex-M, PIC, ESP32 | I2C, SPI, UART, CAN | KiCad, Easy EDA |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Design PCB, DFM | LoRaWAN, BLE, Wi-Fi | MPLAB, STM32CubeIDE |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Analyse de signal | Zigbee, LTE-M | PlatformIO, Git |
 
-### Autres compétences
-- **IoT & Connectivité:** LoRaWAN, BLE, Wi-Fi, LTE-M
-- **Gestion d'énergie:** Conception basse consommation, Energy harvesting
-- **Traitement de signal:** Filtrage numérique, Algorithmes temps réel
+</div>
+
+### Spécialités
+- **Systèmes embarqués**: Développement firmware optimisé, FreeRTOS, bare-metal programming
+- **IoT**: Architecture de solutions connectées, protocoles de communication basse consommation
+- **Électronique**: Conception de circuits, prototypage rapide, industrialisation
+- **Efficience énergétique**: Conception ultra-basse consommation, energy harvesting, battery management
+
+## 🚀 Projets Phares
+
+- **[Système de monitoring environnemental](https://bosco-drg.fr/projects/environmental-monitoring)** - Solution IoT autonome pour la surveillance de paramètres environnementaux
+- **[Contrôleur domotique](https://bosco-drg.fr/projects/home-automation)** - Interface centralisée pour la gestion intelligente de l'habitat
+- **[Plateforme IoT industrielle](https://bosco-drg.fr/projects/industrial-iot)** - Solution de monitoring et maintenance prédictive pour équipements industriels
 
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=dark&hide_border=true&custom_title=Contributions%20GitHub" width="48%" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=nord&hide_border=true&custom_title=Contributions%20GitHub" width="48%" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=nord&hide_border=true" width="48%" alt="GitHub Streak"/>
 </div>
 
-## 📫 Contact
+## 📫 Contact & Liens
 
-- 🔗 LinkedIn: [Bosco DRG](https://linkedin.com/in/bosco-drg)
-- 📧 Email: contact@bosco-drg.com
-- 🌐 Portfolio: [bosco-drg.com](https://bosco-drg.com)
-
-## 📜 Certifications & Formation
-
-- Diplôme d'Ingénieur en Systèmes Embarqués (en cours)
-- Certification ARM Cortex-M Development
-- Formation en Conception de PCB avancée
+- 🔗 **LinkedIn**: [Bosco DRG](https://linkedin.com/in/bosco-drg)
+- 📧 **Email**: [contact@bosco-drg.com](mailto:contact@bosco-drg.com)
+- 🌐 **Portfolio**: [bosco-drg.fr](https://bosco-drg.fr)
+- 📝 **Blog technique**: [bosco-drg.fr/blog](https://bosco-drg.fr/blog)
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hardware-Design-red?style=flat-square" alt="Hardware"/>
-  <img src="https://img.shields.io/badge/Firmware-Development-green?style=flat-square" alt="Firmware"/>
-  <img src="https://img.shields.io/badge/IoT-Solutions-blue?style=flat-square" alt="IoT"/>
+  <i>Les défis d'aujourd'hui forgent les innovations de demain</i>
 </div>
+
