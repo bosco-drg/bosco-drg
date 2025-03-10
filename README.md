@@ -14,39 +14,39 @@ Ingénieur passionné spécialisé dans les systèmes embarqués et l'électroni
 ## 🛠️ Compétences Techniques
 
 ### 💻 Langages & Programmation
-- ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- Programmation orientée objet, Algorithmes temps réel, Scripts d'automatisation
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" alt="Programming Languages" />
+</div>
 
 ### 🔌 Électronique & Systèmes Embarqués
-- **Microcontrôleurs**: ARM Cortex-M, PIC, ESP32, AVR, STM32
-- **Conception électronique**: Schématique, PCB design, DFM, Électronique analogique et numérique
-- **Instrumentation**: Oscilloscopes, Analyseurs logiques, Multimètres, Générateurs de signaux
-- **FPGA**: Initiation à VHDL, Conception logique
+- **Microcontrôleurs** : <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" style="vertical-align:middle" height="20" /> ARM Cortex-M, PIC, ESP32, STM32
+- **Conception électronique** : Schématique, PCB design, Électronique analogique et numérique
+- **Instrumentation** : Oscilloscopes, Analyseurs logiques, Multimètres, Générateurs de signaux
+- **FPGA** : Initiation à VHDL, Conception logique
 
 ### 📊 Automatique & Contrôle-commande
 - Systèmes asservis, Régulation PID, Modélisation de systèmes
 - Automates programmables industriels (API)
 - Supervision et interfaces homme-machine (IHM)
-- SCADA et contrôle de processus industriels
 
 ### 🌐 Réseaux & Communication
-- **Protocoles embarqués**: I2C, SPI, UART, CAN, RS-485, Modbus
-- **Communications sans fil**: LoRaWAN, BLE, Wi-Fi, Zigbee, LTE-M
-- **Réseaux industriels**: Ethernet industriel, Profibus, Profinet
-- Architecture réseau TCP/IP, Mise en place de serveurs IoT
+- **Protocoles embarqués** : I2C, SPI, UART, CAN, RS-485, Modbus
+- **Communications sans fil** : <img src="https://skillicons.dev/icons?i=bluetooth,wifi" style="vertical-align:middle" height="20" /> LoRaWAN, Zigbee, LTE-M
+- **Réseaux industriels** : Ethernet industriel
+- **Architecture réseau** : TCP/IP, Mise en place de serveurs IoT
 
 ### ⚡ Énergie & Électrotechnique
 - Distribution électrique, Habilitations électriques
 - Électronique de puissance, Convertisseurs statiques
-- Systèmes photovoltaïques, Gestion de l'énergie
-- Conception basse consommation, Energy harvesting
 
 ### 🔧 Outils & Méthodologies
-- **Conception**: KiCad, EasyEDA, Proteus, MATLAB/Simulink
-- **Développement**: MPLAB, STM32CubeIDE, Arduino, PlatformIO, Visual Studio Code
-- **Gestion de projet**: Git, GitHub, Méthodes agiles, Documentation technique
-- **Fabrication**: Prototypage, Test et mesure, Dépannage
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,matlab,git" alt="Development Tools" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40" alt="Arduino" />
+</div>
+
+- **Conception** : KiCad, EasyEDA, MATLAB/Simulink
+- **Développement** : MPLAB, STM32CubeIDE, Arduino, PlatformIO, Visual Studio Code
 
 ## 📈 Statistiques GitHub
 
@@ -57,9 +57,23 @@ Ingénieur passionné spécialisé dans les systèmes embarqués et l'électroni
 
 ## 📫 Contact & Liens
 
-- 🔗 **LinkedIn**: [Bosco DRG](https://www.linkedin.com/in/bosco-de-rauglaudre/)
-- 📧 **Email**: [contact@bosco-drg.com](mailto:boscoderauglaudre.pro@gmail.com)
-- 🌐 **Portfolio**: [bosco-drg.fr](https://bosco-drg.fr)
-- 📝 **Blog technique**: [bosco-drg.fr/blog](https://bosco-drg.fr)
+<div align="left">
+  <a href="https://www.linkedin.com/in/bosco-de-rauglaudre/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bosco-drg.fr">
+    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:boscoderauglaudre.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+- 🔗 **LinkedIn** : [Bosco DRG](https://www.linkedin.com/in/bosco-de-rauglaudre/)
+- 📧 **Email** : [boscoderauglaudre.pro@gmail.com](mailto:boscoderauglaudre.pro@gmail.com)
+- 🌐 **Portfolio** : [bosco-drg.fr](https://bosco-drg.fr)
+- 📝 **Blog technique** : [bosco-drg.fr/blog](https://bosco-drg.fr)
 
 ---
