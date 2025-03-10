@@ -92,20 +92,43 @@
 
 ## 📫 Contact
 
-<div align="center" style="padding: 15px 0;">
-    <a href="https://www.linkedin.com/in/bosco-de-rauglaudre/" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://bosco-drg.fr" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="mailto:boscoderauglaudre.pro@gmail.com" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://bosco-drg.fr/blog" style="margin: 0 10px;">
-        <img src="https://img.shields.io/badge/Blog-212121?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
-    </a>
+<div align="center" style="margin: 25px 0;">
+  <table align="center" style="border: none; background: transparent;">
+    <tr style="background: transparent; border: none;">
+      <td align="center" style="padding: 15px; border: none;">
+        <a href="https://www.linkedin.com/in/bosco-de-rauglaudre/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <br/>
+          <span>LinkedIn</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; border: none;">
+        <a href="https://bosco-drg.fr">
+          <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
+          <br/>
+          <span>Portfolio</span>
+        </a>
+      </td>
+    </tr>
+    <tr style="background: transparent; border: none;">
+      <td align="center" style="padding: 15px; border: none;">
+        <a href="mailto:boscoderauglaudre.pro@gmail.com">
+          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <br/>
+          <span>Email</span>
+        </a>
+      </td>
+      <td align="center" style="padding: 15px; border: none;">
+        <a href="https://bosco-drg.fr/blog">
+          <img src="https://img.shields.io/badge/-Blog-1F1F1F?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
+          <br/>
+          <span>Blog</span>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
