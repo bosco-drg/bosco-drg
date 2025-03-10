@@ -1,48 +1,54 @@
-# Bosco DRG
+<div align="center">
+  <img src="https://img.shields.io/badge/Systèmes-Embarqués-blue?style=for-the-badge" alt="Systèmes Embarqués"/>
+  <h1>Bosco DRG</h1>
+  <p><i>Ingénieur en Systèmes Embarqués | Développeur Électronique | Passionné d'IoT</i></p>
+</div>
 
 ## 👨‍💻 À propos de moi
 
-Développeur passionné avec une expertise dans [vos domaines d'expertise]. Je m'intéresse particulièrement à [vos intérêts principaux en développement/technologie] et je suis constamment à la recherche de nouveaux défis pour développer mes compétences.
+Futur ingénieur en systèmes embarqués passionné par le développement de solutions hardware/software intégrées. Mon expertise s'étend des microcontrôleurs à faible consommation aux architectures FPGA complexes, en passant par le développement de firmware optimisé. Je suis constamment à la recherche de défis techniques me permettant d'innover à l'intersection du matériel et du logiciel.
 
 ## 🛠️ Compétences Techniques
 
-### Langages de programmation
-- 
-- 
-- 
+### Langages & Technologies
+- **Languages de programmation:** C/C++, Python, Html, CSS, Javascript
+- **Microcontrôleurs:** ARM Cortex-M, PIC, ESP32
+- **Protocoles:** I2C, SPI, UART, CAN, Modbus, MQTT
+- **OS Embarqués:** FreeRTOS
 
-### Frameworks & Bibliothèques
-- 
-- 
--
+### Conception & Développement
+- **PCB Design:** KiCad, Easy eda
+- **IDE & Outils:** MPLAB, STM32CubeIDE, Arduino, PlatformIO
+- **Test & Validation:** JTAG, Oscilloscopes, Logic Analyzers
 
-### Outils & Plateformes
-- 
-- 
--
-
-## 🚀 Projets Principaux
-
-### [Nom du Projet 1](lien-vers-le-projet)
-Description concise du projet, technologies utilisées et résultats obtenus.
-
-### [Nom du Projet 2](lien-vers-le-projet)
-Description concise du projet, technologies utilisées et résultats obtenus.
+### Autres compétences
+- **IoT & Connectivité:** LoRaWAN, BLE, Wi-Fi, LTE-M
+- **Gestion d'énergie:** Conception basse consommation, Energy harvesting
+- **Traitement de signal:** Filtrage numérique, Algorithmes temps réel
 
 ## 📈 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=radical)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=bosco-drg&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=dark&hide_border=true&custom_title=Contributions%20GitHub" width="48%" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=dark&hide_border=true" width="48%" alt="GitHub Streak"/>
+</div>
 
 ## 📫 Contact
 
-- LinkedIn: [Votre nom](lien-vers-votre-profil)
-- Email: votre.email@example.com
-- Twitter: [@votrepseudo](lien-vers-votre-profil)
-- Site web: [votresite.com](https://votresite.com)
+- 🔗 LinkedIn: [Bosco DRG](https://linkedin.com/in/bosco-drg)
+- 📧 Email: contact@bosco-drg.com
+- 🌐 Portfolio: [bosco-drg.com](https://bosco-drg.com)
 
-## 📜 Certifications
+## 📜 Certifications & Formation
 
-- [Nom de la certification](lien-ou-organisme-délivreur)
-- [Nom de la certification](lien-ou-organisme-délivreur)
+- Diplôme d'Ingénieur en Systèmes Embarqués (en cours)
+- Certification ARM Cortex-M Development
+- Formation en Conception de PCB avancée
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hardware-Design-red?style=flat-square" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Firmware-Development-green?style=flat-square" alt="Firmware"/>
+  <img src="https://img.shields.io/badge/IoT-Solutions-blue?style=flat-square" alt="IoT"/>
+</div>
