@@ -89,5 +89,5 @@ Ingénieur passionné spécialisé dans les systèmes embarqués et l'électroni
 ---
 
 
-[def]: ttps://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
-[def2]: ttps://skillicons.dev/icons?i=c,cpp,python,js,html,cs
+[def]: https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
+[def2]: https://skillicons.dev/icons?i=c,cpp,python,js,html,cs
