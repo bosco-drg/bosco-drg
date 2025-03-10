@@ -5,7 +5,7 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
 
-<hr>
+---
 
 ## 👨‍💻 À propos de moi
 
@@ -19,7 +19,7 @@
   <summary><b>💻 Langages & Programmation</b></summary>
   <br>
   <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,cs" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
   </div>
 </details>
 
@@ -90,8 +90,6 @@
     <br>
 </details>
 
-<hr style="height: 1px; background: linear-gradient(to right, #6a11cb, #2575fc); border: none; margin: 25px 0;">
-
 ## 📈 Statistiques GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -100,7 +98,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosco-drg&layout=compact&theme=graywhite&hide_border=true" width="400px" alt="Most Used Languages"/>
   </div>
 
-<hr>
+
 
 [def]: https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
 [def2]: https://skillicons.dev/icons?i=c,cpp,python,js,html,cs
