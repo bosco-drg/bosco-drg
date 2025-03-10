@@ -34,6 +34,7 @@
           <li><b>FPGA</b> : Initiation à VHDL, Conception logique</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
@@ -46,6 +47,7 @@
           <li>Supervision et interfaces homme-machine (IHM)</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
@@ -59,6 +61,7 @@
           <li><b>Architecture réseau</b> : TCP/IP, Mise en place de serveurs IoT</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
@@ -70,6 +73,7 @@
           <li>Électronique de puissance, Convertisseurs</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
@@ -83,6 +87,7 @@
           <li><b>Développement</b> : MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <hr style="height: 1px; background: linear-gradient(to right, #6a11cb, #2575fc); border: none; margin: 25px 0;">
