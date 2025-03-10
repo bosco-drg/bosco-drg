@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🚀 Bosco DRG</h1>
-  <p><em>Ingénieur en Systèmes Embarqués | Développeur Électronique | Expert IoT</em></p>
+  <p><em>Futur Ingénieur en Systèmes Embarqués</em></p>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
@@ -10,7 +10,7 @@
 ## 👨‍💻 À propos de moi
 
 <div style="background-color: rgba(70, 130, 180, 0.1); border-radius: 10px; padding: 15px; border-left: 4px solid #2575fc;">
-  Ingénieur passionné spécialisé dans les systèmes embarqués et l'électronique connectée. Mon expertise couvre le développement de solutions complètes, du hardware au firmware, avec une attention particulière à l'optimisation des performances et la gestion énergétique. Je conçois des systèmes intelligents à l'intersection de l'électronique, du logiciel embarqué et de l'IoT, en relevant constamment de nouveaux défis technologiques.
+    Technicien passionné par les systèmes embarqués et l'électronique connectée, en évolution vers une carrière d'ingénieur. Je développe mes compétences en conception de systèmes intelligents, alliant électronique, programmation embarquée et IoT.
 </div>
 
 ## 🛠️ Compétences Techniques
@@ -62,7 +62,7 @@
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Distribution électrique, Habilitations électriques</li>
-          <li>Électronique de puissance, Convertisseurs statiques</li>
+          <li>Électronique de puissance, Convertisseurs</li>
       </ul>
     </div>
 </details>
@@ -89,8 +89,6 @@
 </div>
 
 <hr style="height: 1px; background: linear-gradient(to right, #2575fc, #6a11cb); border: none; margin: 25px 0;">
-
----
 
 [def]: https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
 [def2]: https://skillicons.dev/icons?i=c,cpp,python,js,html,cs
