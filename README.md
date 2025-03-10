@@ -17,6 +17,7 @@
 
 <details open>
   <summary><b>💻 Langages & Programmation</b></summary>
+  <br>
   <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,cs" alt="Programming Languages" />
   </div>
@@ -24,6 +25,7 @@
 
 <details>
     <summary><b>🔌 Électronique & Systèmes Embarqués</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Microcontrôleurs</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
@@ -36,6 +38,7 @@
 
 <details>
     <summary><b>📊 Automatique & Contrôle-commande</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Systèmes asservis, Régulation PID, Modélisation de systèmes</li>
@@ -47,6 +50,7 @@
 
 <details>
     <summary><b>🌐 Réseaux & Communication</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Protocoles embarqués</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
@@ -59,6 +63,7 @@
 
 <details>
     <summary><b>⚡ Énergie & Électrotechnique</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Distribution électrique, Habilitations électriques</li>
@@ -69,6 +74,7 @@
 
 <details>
     <summary><b>🔧 Outils & Méthodologies</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>IDE & Éditeurs</b> : Visual Studio Code, MATLAB</li>
