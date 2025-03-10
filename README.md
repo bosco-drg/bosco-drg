@@ -84,8 +84,8 @@
 ## 📈 Statistiques GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Contributions%20GitHub&bg_color=00000000" style="flex: 1; min-width: 300px;" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=tokyonight&hide_border=true&background=00000000" style="flex: 1; min-width: 300px;" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=graywhite&hide_border=true&custom_title=Contributions%20GitHub&bg_color=00000000" style="flex: 1; min-width: 300px;" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=graywhite&hide_border=true&background=00000000" style="flex: 1; min-width: 300px;" alt="GitHub Streak"/>
 </div>
 
 <hr style="height: 1px; background: linear-gradient(to right, #2575fc, #6a11cb); border: none; margin: 25px 0;">
