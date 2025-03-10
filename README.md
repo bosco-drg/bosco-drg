@@ -90,46 +90,6 @@
 
 <hr style="height: 1px; background: linear-gradient(to right, #2575fc, #6a11cb); border: none; margin: 25px 0;">
 
-## 📫 Contact
-
-<div align="center" style="margin: 25px 0;">
-  <table align="center" style="border: none; background: transparent;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="padding: 15px; border: none;">
-        <a href="https://www.linkedin.com/in/bosco-de-rauglaudre/">
-          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          <br/>
-          <span>LinkedIn</span>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px; border: none;">
-        <a href="https://bosco-drg.fr">
-          <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/>
-          <br/>
-          <span>Portfolio</span>
-        </a>
-      </td>
-    </tr>
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="padding: 15px; border: none;">
-        <a href="mailto:boscoderauglaudre.pro@gmail.com">
-          <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          <br/>
-          <span>Email</span>
-        </a>
-      </td>
-      <td align="center" style="padding: 15px; border: none;">
-        <a href="https://bosco-drg.fr/blog">
-          <img src="https://img.shields.io/badge/-Blog-1F1F1F?style=for-the-badge&logo=medium&logoColor=white" alt="Blog"/>
-          <br/>
-          <span>Blog</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ---
 
 [def]: https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
