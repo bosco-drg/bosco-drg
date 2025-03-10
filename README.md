@@ -1,22 +1,22 @@
 <div align="center">
-  <h1>🚀 Bosco DRG</h1>
-  <p><em>Futur Ingénieur en Systèmes Embarqués</em></p>
+  <h1>🚀 Bosco</h1>
+  <p><em>Future Embedded Systems Engineer</em></p>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
 <div>
-    Technicien passionné par les systèmes embarqués et l'électronique connectée, en évolution vers une carrière d'ingénieur. Je développe mes compétences en conception de systèmes intelligents, alliant électronique, programmation embarquée et IoT.
+Technician passionate about embedded systems and connected electronics, transitioning towards a career as an engineer. I am developing my skills in designing intelligent systems, combining electronics, embedded programming, and IoT.
 </div>
 
-## 🛠️ Compétences Techniques
+## 🛠️ Technical Skills
 
 <details open>
-  <summary><b>💻 Langages & Programmation</b></summary>
+  <summary><b>💻 Languages & Programming</b></summary>
   <br>
   <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
@@ -24,73 +24,73 @@
 </details>
 
 <details>
-    <summary><b>🔌 Électronique & Systèmes Embarqués</b></summary>
+    <summary><b>🔌 Electronics & Embedded Systems</b></summary>
     <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
-          <li><b>Microcontrôleurs</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
-          <li><b>Conception électronique</b> : Schématique, PCB design, Électronique analogique et numérique</li>
-          <li><b>Instrumentation</b> : Oscilloscopes, Analyseurs logiques, Multimètres, Générateurs de signaux</li>
-          <li><b>FPGA</b> : Initiation à VHDL, Conception logique</li>
+          <li><b>Microcontrollers</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
+          <li><b>Electronic Design</b> : Schematic, PCB design, Analog and Digital Electronics</li>
+          <li><b>Instrumentation</b> : Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators</li>
+          <li><b>FPGA</b> : Introduction to VHDL, Logic Design</li>
       </ul>
     </div>
     <br>
 </details>
 
 <details>
-    <summary><b>📊 Automatique & Contrôle-commande</b></summary>
+    <summary><b>📊 Automation & Control</b></summary>
     <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
-          <li>Systèmes asservis, Régulation PID, Modélisation de systèmes</li>
-          <li>Automates programmables industriels (API)</li>
-          <li>Supervision et interfaces homme-machine (IHM)</li>
+          <li>Control Systems, PID Regulation, System Modeling</li>
+          <li>Programmable Logic Controllers (PLC)</li>
+          <li>Supervision and Human-Machine Interfaces (HMI)</li>
       </ul>
     </div>
     <br>
 </details>
 
 <details>
-    <summary><b>🌐 Réseaux & Communication</b></summary>
+    <summary><b>🌐 Networks & Communication</b></summary>
     <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
-          <li><b>Protocoles embarqués</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
-          <li><b>Communications sans fil</b> : Bluetooth, Wi-Fi, LoRaWAN, Zigbee, LTE-M</li>
-          <li><b>Réseaux industriels</b> : Ethernet industriel</li>
-          <li><b>Architecture réseau</b> : TCP/IP, Mise en place de serveurs IoT</li>
+          <li><b>Embedded Protocols</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
+          <li><b>Wireless Communications</b> : Bluetooth, Wi-Fi, LoRaWAN, Zigbee, LTE-M</li>
+          <li><b>Industrial Networks</b> : Industrial Ethernet</li>
+          <li><b>Network Architecture</b> : TCP/IP, Setting up IoT Servers</li>
       </ul>
     </div>
     <br>
 </details>
 
 <details>
-    <summary><b>⚡ Énergie & Électrotechnique</b></summary>
+    <summary><b>⚡ Energy & Electrotechnics</b></summary>
     <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
-          <li>Distribution électrique, Habilitations électriques</li>
-          <li>Électronique de puissance, Convertisseurs</li>
+          <li>Electrical Distribution, Electrical Certifications</li>
+          <li>Power Electronics, Converters</li>
       </ul>
     </div>
     <br>
 </details>
 
 <details>
-    <summary><b>🔧 Outils & Méthodologies</b></summary>
+    <summary><b>🔧 Tools & Methodologies</b></summary>
     <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
-          <li><b>IDE & Éditeurs</b> : Visual Studio Code, MATLAB</li>
+          <li><b>IDE & Editors</b> : Visual Studio Code, MATLAB</li>
           <li><b>Version Control</b> : Git, GitHub</li>
-          <li><b>Conception</b> : KiCad, EasyEDA, MATLAB/Simulink</li>
-          <li><b>Développement</b> : MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
+          <li><b>Design</b> : KiCad, EasyEDA, MATLAB/Simulink</li>
+          <li><b>Development</b> : MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
       </ul>
     </div>
     <br>
 </details>
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Statistics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
