@@ -17,6 +17,7 @@
 
 <details open>
   <summary><b>💻 Langages & Programmation</b></summary>
+  <br>
   <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,cs" alt="Programming Languages" />
   </div>
@@ -24,6 +25,7 @@
 
 <details>
     <summary><b>🔌 Électronique & Systèmes Embarqués</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Microcontrôleurs</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
@@ -32,10 +34,12 @@
           <li><b>FPGA</b> : Initiation à VHDL, Conception logique</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
     <summary><b>📊 Automatique & Contrôle-commande</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Systèmes asservis, Régulation PID, Modélisation de systèmes</li>
@@ -43,10 +47,12 @@
           <li>Supervision et interfaces homme-machine (IHM)</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
     <summary><b>🌐 Réseaux & Communication</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Protocoles embarqués</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
@@ -55,20 +61,24 @@
           <li><b>Architecture réseau</b> : TCP/IP, Mise en place de serveurs IoT</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
     <summary><b>⚡ Énergie & Électrotechnique</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Distribution électrique, Habilitations électriques</li>
           <li>Électronique de puissance, Convertisseurs</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <details>
     <summary><b>🔧 Outils & Méthodologies</b></summary>
+    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>IDE & Éditeurs</b> : Visual Studio Code, MATLAB</li>
@@ -77,6 +87,7 @@
           <li><b>Développement</b> : MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
       </ul>
     </div>
+    <br>
 </details>
 
 <hr style="height: 1px; background: linear-gradient(to right, #6a11cb, #2575fc); border: none; margin: 25px 0;">
