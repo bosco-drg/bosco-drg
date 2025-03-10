@@ -5,11 +5,11 @@
   [![Profile Views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
 
-<hr style="height: 2px; background: linear-gradient(to right, #6a11cb, #2575fc); border: none;">
+<hr>
 
 ## 👨‍💻 À propos de moi
 
-<div style="background-color: rgba(70, 130, 180, 0.1); border-radius: 10px; padding: 15px; border-left: 4px solid #2575fc;">
+<div>
     Technicien passionné par les systèmes embarqués et l'électronique connectée, en évolution vers une carrière d'ingénieur. Je développe mes compétences en conception de systèmes intelligents, alliant électronique, programmation embarquée et IoT.
 </div>
 
@@ -84,11 +84,12 @@
 ## 📈 Statistiques GitHub
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=graywhite&hide_border=true&custom_title=Contributions%20GitHub&bg_color=00000000" style="flex: 1; min-width: 300px;" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=graywhite&hide_border=true&background=00000000" style="flex: 1; min-width: 300px;" alt="GitHub Streak"/>
-</div>
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=graywhite&hide_border=true" width="400px" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosco-drg&layout=compact&theme=graywhite&hide_border=true" width="400px" alt="Most Used Languages"/>
+  </div>
 
-<hr style="height: 1px; background: linear-gradient(to right, #2575fc, #6a11cb); border: none; margin: 25px 0;">
+<hr>
 
 [def]: https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=whit
 [def2]: https://skillicons.dev/icons?i=c,cpp,python,js,html,cs
