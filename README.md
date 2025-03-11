@@ -73,8 +73,6 @@ Technician passionate about embedded systems and connected electronics, transiti
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=bosco-drg&show_icons=true&theme=graywhite&hide_border=true" width="400px" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosco-drg&layout=compact&theme=graywhite&hide_border=true" width="400px" alt="Most Used Languages"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bosco-drg&theme=graywhite&hide_border=true" width="400px" alt="GitHub Streak"/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=bosco-drg&theme=graywhite&hide_border=true" width="400px" alt="GitHub Activity"/>
   </div>
 </div>
 
