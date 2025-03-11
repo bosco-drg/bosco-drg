@@ -2,67 +2,75 @@
   <h1>🚀 Bosco</h1>
   <p><em>Future Embedded Systems Engineer</em></p>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
+  [![Profile views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About me
 
 <div>
-Technician passionate about embedded systems and connected electronics, transitioning towards a career as an engineer. I am developing my skills in designing intelligent systems, combining electronics, embedded programming, and IoT.
+Technician passionate about embedded systems and connected electronics, transitioning to an engineering career. I develop my skills in designing intelligent systems, combining electronics, embedded programming, and IoT.
 </div>
 
 ## 🛠️ Technical Skills
 
 ### 💻 Languages & Programming
+
 <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
 </div>
 
 ### 🔌 Electronics & Embedded Systems
+
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li><b>Microcontrollers</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
-      <li><b>Electronic Design</b> : Schematic, PCB design, Analog and Digital Electronics</li>
-      <li><b>Instrumentation</b> : Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators</li>
-      <li><b>FPGA</b> : Introduction to VHDL, Logic Design</li>
+      <li><b>Microcontrollers</b>: Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
+      <li><b>Electronic Design</b>: Schematics, PCB Design, Analog and Digital Electronics</li>
+      <li><b>Instrumentation</b>: Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators</li>
+      <li><b>Signal Processing</b>: Analog/Digital Signal Analysis, Filtering</li>
+      <li><b>FPGA</b>: Introduction to VHDL, Logic Design</li>
   </ul>
 </div>
 
 ### 📊 Automation & Control
+
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li>Control Systems, PID Regulation, System Modeling</li>
-      <li>Programmable Logic Controllers (PLC)</li>
-      <li>Supervision and Human-Machine Interfaces (HMI)</li>
+      <li><b>Control Systems</b>: PID Regulation, Feedback Systems, Digital Correction</li>
+      <li><b>Modeling</b>: Linear Systems, Transfer Functions, Controllers, Stability</li>
+      <li><b>Industrial Automation</b>: Siemens/Schneider PLCs, Grafcet, Structured Programming</li>
   </ul>
 </div>
 
 ### 🌐 Networks & Communication
+
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li><b>Embedded Protocols</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
-      <li><b>Wireless Communications</b> : Bluetooth, Wi-Fi, LoRaWAN, Zigbee, LTE-M</li>
-      <li><b>Industrial Networks</b> : Industrial Ethernet</li>
-      <li><b>Network Architecture</b> : TCP/IP, Setting up IoT Servers</li>
+      <li><b>Embedded Protocols</b>: I2C, SPI, UART, CAN, RS-232, RS-485, Modbus</li>
+      <li><b>Wireless Communications</b>: Bluetooth, Wi-Fi, LoRaWAN, Zigbee, LTE-M, MQTT</li>
+      <li><b>Network Architecture</b>: TCP/IP, UDP, Industrial Ethernet, IoT Configuration</li>
+      <li><b>Web Services</b>: Apache, Nginx, WebSocket</li>
   </ul>
 </div>
 
-### ⚡ Energy & Electrotechnics
+### ⚡ Energy & Electrical Engineering
+
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li>Electrical Distribution, Electrical Certifications</li>
-      <li>Power Electronics, Converters</li>
+      <li><b>Electrical Engineering</b>: LV/MV Distribution, Electrical Certifications (BR), Electrical Diagrams</li>
+      <li><b>Power Electronics</b>: AC/DC Converters, Choppers, Rectifiers, Inverters, Dimmers, Thermal Design</li>
+      <li><b>Electrical Machines</b>: AC/DC Motors, Transformers, Variable Speed Drives</li>
   </ul>
 </div>
 
 ### 🔧 Tools & Methodologies
+
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li><b>Development</b> : MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
-      <li><b>Version Control</b> : Git, GitHub</li>
-      <li><b>Design</b> : KiCad, EasyEDA, MATLAB/Simulink</li>
+      <li><b>Development</b>: MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
+      <li><b>Design</b>: KiCad, EasyEDA, MATLAB/Simulink</li>
+      <li><b>Version Control</b>: Git, GitHub</li>
   </ul>
 </div>
 
