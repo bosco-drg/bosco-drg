@@ -17,15 +17,14 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <details open>
   <summary><b>💻 Languages & Programming</b></summary>
-  <br>
   <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
   </div>
+  <br>
 </details>
 
 <details>
     <summary><b>🔌 Electronics & Embedded Systems</b></summary>
-    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Microcontrollers</b> : Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
@@ -39,7 +38,6 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <details>
     <summary><b>📊 Automation & Control</b></summary>
-    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Control Systems, PID Regulation, System Modeling</li>
@@ -52,7 +50,6 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <details>
     <summary><b>🌐 Networks & Communication</b></summary>
-    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>Embedded Protocols</b> : I2C, SPI, UART, CAN, RS-485, Modbus</li>
@@ -66,7 +63,6 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <details>
     <summary><b>⚡ Energy & Electrotechnics</b></summary>
-    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li>Electrical Distribution, Electrical Certifications</li>
@@ -78,7 +74,6 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <details>
     <summary><b>🔧 Tools & Methodologies</b></summary>
-    <br>
     <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
       <ul>
           <li><b>IDE & Editors</b> : Visual Studio Code, MATLAB</li>
