@@ -27,7 +27,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   <ul>
       <li><b>Microcontrollers</b>: Arduino, Raspberry Pi, ARM Cortex-M, PIC, ESP32, STM32</li>
       <li><b>Electronic Design</b>: Schematics, PCB Design, Analog and Digital Electronics</li>
-      <li><b>Instrumentation</b>: Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators</li>
+      <li><b>Instrumentation</b>: Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators, Spectrum Analyzers</li>
       <li><b>Signal Processing</b>: Analog/Digital Signal Analysis, Filtering</li>
   </ul>
 </div>
