@@ -68,7 +68,7 @@ Technician passionate about embedded systems and connected electronics, transiti
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
       <li><b>Development</b>: MPLAB, STM32CubeIDE, Arduino IDE, PlatformIO, Visual Studio Code</li>
-      <li><b>Design</b>: KiCad, EasyEDA, MATLAB/Simulink</li>
+      <li><b>Design</b>: KiCad, EasyEDA, MATLAB/Simulink, LTspice</li>
       <li><b>Version Control</b>: Git, GitHub</li>
   </ul>
 </div>
