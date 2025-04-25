@@ -57,7 +57,7 @@ Technician passionate about embedded systems and connected electronics, transiti
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
-      <li><b>Electrical Engineering</b>: LV/MV Distribution, Electrical Certifications (BR), Electrical Diagrams</li>
+      <li><b>Electrical Engineering</b>: LV Distribution, Electrical Certifications (BR), Electrical Diagrams</li>
       <li><b>Power Electronics</b>: AC/DC Converters, Choppers, Rectifiers, Inverters, Dimmers, Thermal Design</li>
       <li><b>Electrical Machines</b>: AC/DC Motors, Transformers, Variable Speed Drives</li>
   </ul>
