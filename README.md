@@ -29,7 +29,6 @@ Technician passionate about embedded systems and connected electronics, transiti
       <li><b>Electronic Design</b>: Schematics, PCB Design, Analog and Digital Electronics</li>
       <li><b>Instrumentation</b>: Oscilloscopes, Logic Analyzers, Multimeters, Signal Generators</li>
       <li><b>Signal Processing</b>: Analog/Digital Signal Analysis, Filtering</li>
-      <li><b>FPGA</b>: Introduction to VHDL, Logic Design</li>
   </ul>
 </div>
 
