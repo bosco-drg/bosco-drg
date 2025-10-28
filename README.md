@@ -1,8 +1,6 @@
 <div align="center">
   <h1>🚀 Bosco</h1>
   <p><em>Future Embedded Systems Engineer</em></p>
-  
-  [![Profile views](https://komarev.com/ghpvc/?username=bosco-drg&color=brightgreen&style=flat-square)](https://github.com/bosco-drg)
 </div>
 
 ---
