@@ -1,25 +1,25 @@
 <div align="center">
-  <h1>🚀 Bosco</h1>
+  <h1>Bosco</h1>
   <p><em>Future Embedded Systems Engineer</em></p>
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 <div>
 Technician passionate about embedded systems and connected electronics, transitioning to an engineering career. I develop my skills in designing intelligent systems, combining electronics, embedded programming, and IoT.
 </div>
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Languages & Programming
+### Languages & Programming
 
 <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
 </div>
 
-### 🔌 Electronics & Embedded Systems
+### Electronics & Embedded Systems
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
@@ -30,7 +30,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   </ul>
 </div>
 
-### 📊 Automation & Control
+### Automation & Control
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
@@ -40,7 +40,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   </ul>
 </div>
 
-### 🌐 Networks & Communication
+### Networks & Communication
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
@@ -51,7 +51,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   </ul>
 </div>
 
-### ⚡ Energy & Electrical Engineering
+### Energy & Electrical Engineering
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
@@ -61,7 +61,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   </ul>
 </div>
 
-### 🔧 Tools & Methodologies
+### Tools & Methodologies
 
 <div style="background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; padding: 15px; margin: 10px 0;">
   <ul>
@@ -71,7 +71,7 @@ Technician passionate about embedded systems and connected electronics, transiti
   </ul>
 </div>
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
