@@ -16,7 +16,7 @@ Technician passionate about embedded systems and connected electronics, transiti
 ### Languages & Programming
 
 <div align="center" style="padding: 10px; background-color: rgba(50, 50, 50, 0.05); border-radius: 8px; margin: 10px 0;">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,html,css" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,matlab,vhdl,html,css" alt="Programming Languages" />
 </div>
 
 ### Electronics & Embedded Systems
