@@ -8,7 +8,7 @@
 ## About me
 
 <div>
-Technician passionate about embedded systems and connected electronics, transitioning to an engineering career. I develop my skills in designing intelligent systems, combining electronics, embedded programming, and IoT.
+Passionate about embedded systems and connected electronics, I am pursuing a career as an engineer. I am developing my skills in the design of intelligent systems, combining electronics, embedded programming, and IoT
 </div>
 
 ## Technical Skills
